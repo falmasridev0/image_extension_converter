@@ -5,7 +5,7 @@ project uses PIL library to convert the extension of the images.
 
 2. run the program through terminal and add the extenstion you want as an argument
 
-the result will be in 'converted_images' folder.
+the result will be in 'converted_images' folder. if it's not existed. the program will create it.
 
 NOTE: 
 1. the program thumbnail images to make it smaller.
