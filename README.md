@@ -7,7 +7,9 @@ project uses PIL library to convert the extension of the images.
 
 the result will be in 'converted_images' folder.
 
-NOTE: the program thumbnail images to make it smaller.
+NOTE: 
+1. the program thumbnail images to make it smaller.
+2. there are samples in the images folder to test the program
 
 Sample Run:
 
