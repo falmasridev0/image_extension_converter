@@ -8,3 +8,8 @@ project uses PIL library to convert the extension of the images.
 the result will be in 'converted_images' folder.
 
 NOTE: the program thumbnail images to make it smaller.
+
+Sample Run:
+
+**python3 main.py webp**
+
